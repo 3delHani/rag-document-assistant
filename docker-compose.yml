@@ -1,0 +1,13 @@
+services:
+  rag-api:
+    build: .
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    environment:
+      # inside the container the data dir is always /app/data
+      DATA_DIR: /app/data
+    volumes:
+      - ./data:/app/data   # uploaded documents + embeddings survive restarts
+    restart: always

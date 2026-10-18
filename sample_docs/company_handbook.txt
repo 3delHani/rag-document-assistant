@@ -1,0 +1,16 @@
+Nile Tech Employee Handbook
+
+Annual Leave
+Every full-time employee is entitled to 21 days of paid annual leave per year. Employees who have completed more than 10 years of service receive 30 days. Leave requests must be submitted at least two weeks in advance through the HR portal and approved by the direct manager.
+
+Remote Work Policy
+Employees may work remotely up to two days per week, subject to manager approval. Remote work days must be agreed upon in advance, and employees must be available on Slack during core hours from 10:00 to 16:00 Cairo time. Fully remote arrangements are only available for roles listed as remote-eligible.
+
+Working Hours
+The standard working week is Sunday to Thursday, from 9:00 to 17:00, with a one-hour lunch break. Overtime must be approved in advance and is compensated at 1.5 times the hourly rate.
+
+Health Insurance
+Nile Tech provides private health insurance for all full-time employees, starting from their first day. Coverage extends to the employee's spouse and up to three children. Dental and vision are optional add-ons deducted from the monthly salary.
+
+Learning Budget
+Each employee receives an annual learning budget of 15,000 EGP, which can be spent on courses, books, and certifications. Unused budget does not roll over to the next year.
